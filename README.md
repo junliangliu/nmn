@@ -26,7 +26,7 @@ DeepLab
 
 计算过程如下图：
 
-![github](https://github.com/junliangliu/nmn/blob/step.png "思路")
+![github](https://github.com/junliangliu/nmn/blob/master/image/step.png "思路")
 
 其中，圆圈是计算输入数值，虚线圆圈是中间结果，方框是一个神经网络（一个模块），表示不同的运算如加法、减法、或乘法
 
@@ -48,7 +48,7 @@ DeepLab
 
 ### 实验结果
 
-![github](https://github.com/junliangliu/nmn/image/result.png "思路")
+![github](https://github.com/junliangliu/nmn/blob/master/image/result.png "结果")
 
 解释如下：
 
@@ -70,6 +70,8 @@ nmn.py 前半部分用于生成数据，后半部分用于定义及训练nmn
 
 
 ### 参考：
+
 https://github.com/facebookresearch/clevr-iep
+
 https://github.com/jacobandreas/nmn2
 
