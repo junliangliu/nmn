@@ -74,4 +74,4 @@ https://github.com/jacobandreas/nmn2
 
 ### 一张厉害的图：
 
-![github](https://github.com/junliangliu/nmn/blob/master/image/nmn.png "结果")
+![github](https://github.com/junliangliu/nmn/blob/master/image/nmn.PNG "结果")
